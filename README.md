@@ -1,2 +1,2 @@
 # calculator
-Website which represents a simple calculator
+Website which represents a simple calculators
